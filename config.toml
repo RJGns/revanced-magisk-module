@@ -1,3 +1,5 @@
+enable-magisk-update = true
+
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
@@ -6,26 +8,9 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 included-patches = "add-splash-animation"
 excluded-patches = "change-homepage custom-branding-icon-revancify-blue custom-package-name disable-hdr-video"
-
-[Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+build-mode = "module" 
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "sim-spoof"
-
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-
+build-mode = "module" 
