@@ -7,7 +7,7 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "YouTube"
 included-patches = "add-splash-animation"
-excluded-patches = "change-homepage custom-branding-icon-revancify-blue custom-package-name disable-hdr-video"
+excluded-patches = "change-homepage custom-branding-icon-revancify-blue custom-package-name disable-hdr-video custom-branding"
 build-mode = "module" 
 
 [Tiktok]
