@@ -8,9 +8,9 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "YouTube"
 included-patches = "add-splash-animation"
 excluded-patches = "change-homepage custom-branding-icon-revancify-blue custom-package-name disable-hdr-video"
-build-mode = "module" 
+build-mode = "apk" 
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "sim-spoof"
-build-mode = "module" 
+build-mode = "apk" 
